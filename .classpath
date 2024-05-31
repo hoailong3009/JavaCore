@@ -6,5 +6,14 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/hoailong/.m2/repository/io/github/classgraph/classgraph/4.8.147/classgraph-4.8.147.jar" sourcepath="/Users/hoailong/.m2/repository/io/github/classgraph/classgraph/4.8.147/classgraph-4.8.147-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.classgraph"/>
+			<attribute name="maven.artifactId" value="classgraph"/>
+			<attribute name="maven.version" value="4.8.147"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
