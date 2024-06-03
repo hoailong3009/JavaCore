@@ -1,4 +1,4 @@
-package Chapter2;
+package Encapsulation;
 
 public class Product {
 	private String name;
